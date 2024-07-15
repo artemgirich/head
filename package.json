@@ -1,0 +1,15 @@
+{
+  "name": "head",
+  "version": "1.0.0",
+  "description": "my head is ill",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "artem",
+  "license": "ISC",
+  "dependencies": {
+    "date-holidays": "^3.23.12",
+    "fs": "^0.0.1-security"
+  }
+}
